@@ -3,7 +3,7 @@
 *.ipynb linguist-language=Python
 
 
-# Ignore HTML przy during language detection
+# Ignore HTML during language detection
 *.html linguist-detectable=false
 *.css linguist-detectable=false
 *.js linguist-detectable=false
